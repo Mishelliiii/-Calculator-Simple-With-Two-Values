@@ -1,0 +1,19 @@
+Z:\temp\Condicional\Condicional\bin\Debug\Condicional.exe.config
+Z:\temp\Condicional\Condicional\bin\Debug\Condicional.exe
+Z:\temp\Condicional\Condicional\bin\Debug\Condicional.pdb
+Z:\temp\Condicional\Condicional\obj\Debug\Condicional.csprojResolveAssemblyReference.cache
+Z:\temp\Condicional\Condicional\obj\Debug\Condicional.Form1.resources
+Z:\temp\Condicional\Condicional\obj\Debug\Condicional.Properties.Resources.resources
+Z:\temp\Condicional\Condicional\obj\Debug\Condicional.csproj.GenerateResource.Cache
+Z:\temp\Condicional\Condicional\obj\Debug\Condicional.csproj.CoreCompileInputs.cache
+Z:\temp\Condicional\Condicional\obj\Debug\Condicional.exe
+Z:\temp\Condicional\Condicional\obj\Debug\Condicional.pdb
+D:\2018-2019\COTUCA\COTUCA\Andreia 1 semestre\02 CalculadoraDoisValores\Condicional\bin\Debug\Condicional.exe.config
+D:\2018-2019\COTUCA\COTUCA\Andreia 1 semestre\02 CalculadoraDoisValores\Condicional\bin\Debug\Condicional.exe
+D:\2018-2019\COTUCA\COTUCA\Andreia 1 semestre\02 CalculadoraDoisValores\Condicional\bin\Debug\Condicional.pdb
+D:\2018-2019\COTUCA\COTUCA\Andreia 1 semestre\02 CalculadoraDoisValores\Condicional\obj\Debug\Condicional.csprojAssemblyReference.cache
+D:\2018-2019\COTUCA\COTUCA\Andreia 1 semestre\02 CalculadoraDoisValores\Condicional\obj\Debug\Condicional.Form1.resources
+D:\2018-2019\COTUCA\COTUCA\Andreia 1 semestre\02 CalculadoraDoisValores\Condicional\obj\Debug\Condicional.Properties.Resources.resources
+D:\2018-2019\COTUCA\COTUCA\Andreia 1 semestre\02 CalculadoraDoisValores\Condicional\obj\Debug\Condicional.csproj.GenerateResource.cache
+D:\2018-2019\COTUCA\COTUCA\Andreia 1 semestre\02 CalculadoraDoisValores\Condicional\obj\Debug\Condicional.exe
+D:\2018-2019\COTUCA\COTUCA\Andreia 1 semestre\02 CalculadoraDoisValores\Condicional\obj\Debug\Condicional.pdb

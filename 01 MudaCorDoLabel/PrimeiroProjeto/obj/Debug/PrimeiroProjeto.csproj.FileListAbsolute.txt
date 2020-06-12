@@ -1,0 +1,10 @@
+Z:\temp\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe.config
+Z:\temp\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe
+Z:\temp\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.pdb
+Z:\temp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csprojResolveAssemblyReference.cache
+Z:\temp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.frmPrimeiroFormulario.resources
+Z:\temp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.Properties.Resources.resources
+Z:\temp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.GenerateResource.Cache
+Z:\temp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+Z:\temp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.exe
+Z:\temp\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.pdb
